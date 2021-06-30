@@ -1,0 +1,12 @@
+html :
+  name: html
+  description: False
+  cover: assets/built/images/background-image.jpg
+css :
+  name: css
+  description: False
+  cover: assets/built/images/background-image.jpg
+javascript :
+  name: javascript
+  description: False
+  cover: assets/built/images/background-image.jpg
