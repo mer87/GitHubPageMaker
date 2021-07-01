@@ -1,0 +1,3 @@
+[submodule "output"]
+	path = output
+	url = https://github.com/mer87/mer87.github.io.git
